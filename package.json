@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1",
-    "inflight": "^1.0.6"
+    "p-map-series": "^3.0.0"
   }
 }
