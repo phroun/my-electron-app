@@ -9,7 +9,10 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
-    "lint": "eslint --ext .ts,.tsx ."
+    "lint": "eslint --ext .ts,.tsx .",
+    "postinstall": "ts-node  ./util/rename-project.js",
+    "rename": "ts-node ./util/rename-project.ts",
+    "version": "node --version"
   },
   "keywords": [],
   "author": {
