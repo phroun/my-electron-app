@@ -28,5 +28,5 @@ npm start
 ## Packaging for Distribution
 
 ```
-npm make
+npm run make
 ```
