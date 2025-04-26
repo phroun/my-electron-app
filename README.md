@@ -4,14 +4,14 @@ A blank template for an app using electron-forge, TypeScript, and webpack.
 
 ## Installing for Development
 
-**Step 1.  Clone this repository:**
+### Step 1.  Clone this repository:
 
 ```
 git clone https://github.com/phroun/my-electron-app.git
 cd my-electron-app
 ```
 
-**Step 2.  Install the project dependencies:**
+### Step 2.  Install the project dependencies:
 
 ```
 npm install
@@ -19,7 +19,7 @@ npm install
 
 After installation, you will be prompted to choose a new name for the app.  Use lowercase with hyphens.
 
-**Step 3.  Try starting the Electron App to see if it works.**
+### Step 3.  Try starting the Electron App to see if it works.
 
 ```
 npm start
@@ -30,6 +30,3 @@ npm start
 ```
 npm make
 ```
-
-
-## 
